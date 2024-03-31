@@ -1,0 +1,29 @@
+/* #output{
+    height: 220px;
+} */
+.ab {
+    background-color: #e8132c;
+}
+
+.ab:hover {
+    background-color: #c31126;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#buttons button{
+    min-width: 45%;
+}
+
+#output{
+    min-height: 210px;
+    content: auto;
+}
+#statement{
+    min-height: 90px;
+    background-color: #1d3557;
+    color: white;
+}
